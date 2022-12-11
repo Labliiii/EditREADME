@@ -1,7 +1,7 @@
 Admin
-username: admin
-password: admin
+Username: admin
+Password: admin
 
 User
-email: user2@gmail.com
-password: user
+Email: user2@gmail.com
+Password: user
